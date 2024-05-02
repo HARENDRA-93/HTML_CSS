@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #7adfff;
+}
+.main {
+  display: flex;
+  weidth: 895px;
+  height: 946px;
+  /* gap: 20px; */
+  /* margin: 120 auto; */
+  border: 2px solid black;
+}
+.box1 {
+  height: 378px;
+  weidth: 895px;
+  background: #4f8eec;
+}
+.box2 {
+  background: #0a1e3c;
+  weidth: 895px;
+  height: 548px;
+}
+.box3 {
+  background: #005c79;
+  weidth: 285px;
+  height: 946px;
+}
