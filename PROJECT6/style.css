@@ -1,0 +1,173 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  background: red;
+  width: 1200px;
+  height: 1354px;
+  margin-top: 32px;
+  margin-left: 120px;
+  gap: 40px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  width: 1200px;
+  height: 216px;
+  padding: 16px 0px 0px 0px;
+  /* gap: 16px; */
+  border-radius: 15px;
+  background: #000000;
+}
+.box1 {
+  width: 1168px;
+  height: 120px;
+  padding: 10px;
+  border: 5px green;
+  display: flex;
+  gap: 10px;
+}
+
+body {
+  background: pink;
+}
+.ellipse1 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  background: #ffffff;
+}
+.search {
+  width: 1038px;
+  height: 100px;
+  border-radius: 64px;
+  background: #ffffff;
+}
+
+.box2 {
+  width: 1168px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.square {
+  height: 48px;
+  width: 48px;
+  background: #ffffff;
+}
+.card {
+  display: flex;
+  gap: 6px;
+}
+.line {
+  width: 184px;
+  height: 48px;
+  gap: 6px;
+  display: flex;
+  flex-direction: column;
+}
+.strip {
+  width: 120px;
+  height: 12px;
+  background: #ffffff;
+}
+
+.sec {
+  display: flex;
+  width: 1200px;
+  height: 1098px;
+  background: #000000;
+  gap: 780px;
+  padding: 16px;
+  margin-top: 50px;
+  flex-direction: column;
+}
+.rectangles {
+  width: 232px;
+  height: 100px;
+  /* padding:8px; */
+  /* gap:4px; */
+}
+
+.square2 {
+  height: 100px;
+  width: 232px;
+  padding: 8px;
+  gap: 4px;
+  display: flex;
+  flex-direction: column;
+}
+.s1 {
+  width: 216px;
+  height: 28px;
+  background: #ffffff;
+}
+.p1 {
+  display: flex;
+  width: 344px;
+  height: 100px;
+  /* gap:12px; */
+}
+.s2,
+.s3 {
+  width: 216px;
+  height: 8px;
+  background: #ffffff;
+}
+.square3 {
+  display: flex;
+  width: 100px;
+  height: 28px;
+  padding: 4px, 0px, 4px, 0px;
+  gap: 4px;
+}
+.s4 {
+  height: 20px;
+  width: 20px;
+  background: #ffffff;
+}
+.s5 {
+  height: 20px;
+  width: 76px;
+  background: #ffffff;
+}
+.square4 {
+  width: 56px;
+  height: 24px;
+  display: flex;
+  gap: 8px;
+}
+.s6,
+.s7 {
+  height: 24px;
+  width: 24px;
+  background: #ffffff;
+}
+
+.sec3 {
+  display: flex;
+  flex-direction: column;
+  width: 1168px;
+  height: 942px;
+  gap: 21px;
+}
+.s8 {
+  width: 358px;
+  height: 28px;
+  background: #ffffff;
+}
+.s9 {
+  width: 1168px;
+  height: 72px;
+  background: #ffffff;
+}
+.s10 {
+  width: 1168px;
+  height: 800px;
+  background: #ffffff;
+}
